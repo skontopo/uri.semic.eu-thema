@@ -1,0 +1,29 @@
+[
+{
+  "name": "cpsv-ap",
+  "type": "ap",
+  "eap": "CPSV-AP.eap",
+  "diagram": "CPSV-AP",
+  "template": "cpsv-ap_en.j2",
+  "title": "Core Public Service Vocabulary Application Profile (CPSV-AP)",
+  "publication-state": "Working Draft",
+  "publication-date": "2021-07-01",
+  "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "CPSV-AP",
+  "site": "site-skeleton/cpsv-ap",
+  "repourl": "https://github.com/catalogue-of-services-isa/CPSV-AP/",
+  "versionurl": "https://github.com/catalogue-of-services-isa/CPSV-AP/tree/master/releases/2.2.2",
+  "feedbackurl": "https://github.com/catalogue-of-services-isa/CPSV-AP/issues",
+  "standaardregisterurl": "TODO",
+    "translation": [
+      {
+        "language":"en",
+        "template":"cpsv-ap_en.j2",
+        "title": "Core Public Service Vocabulary Application Profile (CPSV-AP)",
+        "translationjson":"cpsv-ap_en.json",
+        "mergefile":"cpsv-ap_en_merged.jsonld"
+      }
+    ]
+}
+]
