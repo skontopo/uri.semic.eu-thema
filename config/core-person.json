@@ -3,7 +3,7 @@
   "name": "core-person-ap",
   "type": "ap",
   "eap": "CorePerson.EAP",
-  "diagram": "Core_Person_publication",
+  "diagram": "Core_Person",
   "template": "core-person-ap_en.j2",
   "title": "Core Person Vocabulary",
   "publication-state": "Semic Recommendation",
