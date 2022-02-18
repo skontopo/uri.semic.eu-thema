@@ -2,7 +2,7 @@
 {
   "name": "core-person-ap",
   "type": "ap",
-  "eap": "CoreVocabularies.EAP",
+  "eap": "CorePerson.EAP",
   "diagram": "Core_Person",
   "template": "core-person-ap_en.j2",
   "title": "Core Person Vocabulary",
