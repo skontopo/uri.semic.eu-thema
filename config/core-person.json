@@ -1,6 +1,6 @@
 [
 {
-  "name": "core-person",
+  "name": "core-person-ap",
   "type": "ap",
   "eap": "CorePerson.EAP",
   "diagram": "Core_Person",
