@@ -30,7 +30,7 @@
     ]
 },
 {
-  "name": "core-person-ap",
+  "name": "core-person-voc",
   "type": "voc",
   "eap": "CorePerson.EAP",
   "diagram": "Core_Person",
