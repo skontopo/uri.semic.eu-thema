@@ -15,6 +15,9 @@
   "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
   "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
   "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
+  "documentconfig" : {
+	  "changelog" : "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.00/Changelog.md"
+  },
   "standaardregisterurl": "Core-Person-Vocabulary",
     "translation": [
       {
