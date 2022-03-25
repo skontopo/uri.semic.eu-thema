@@ -15,6 +15,9 @@
   "repourl": "https://github.com/SEMICeu/CPOV/tree/master/releases/2.00",
   "versionurl": "https://semiceu.github.io/CPOV/releases/2.00",
   "feedbackurl": "https://github.com/SEMICeu/CPOV/issues",
+  "documentconfig" : {
+    "changelog" : "https://github.com/SEMICeu/CPOV/blob/master/releases/2.00/Changelog.md"
+  },
   "standaardregisterurl": "CPOV",
     "translation": [
       {
