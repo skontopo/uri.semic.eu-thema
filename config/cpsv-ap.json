@@ -12,11 +12,11 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CPSV-AP",
   "site": "site-skeleton/cpsv-ap",
-  "repourl": "https://github.com/catalogue-of-services-isa/CPSV-AP/",
-  "versionurl": "https://github.com/catalogue-of-services-isa/CPSV-AP/tree/master/releases/2.2.2",
-  "feedbackurl": "https://github.com/catalogue-of-services-isa/CPSV-AP/issues",
+  "repourl": "https://github.com/SEMICeu/CPSV-AP/",
+  "versionurl": "https://github.com/SEMICeu/CPSV-AP/tree/master/releases/2.2.2",
+  "feedbackurl": "https://github.com/SEMICeu/CPSV-AP/issues",
   "documentconfig" : {
-     "changelog" : "https://github.com/catalogue-of-services-isa/CPSV-AP/blob/3.0.0/releases/3.0.0/Changelog.md"
+     "changelog" : "https://github.com/SEMICeu/CPSV-AP/blob/3.0.0/releases/3.0.0/Changelog.md"
   },
   "standaardregisterurl": "TODO",
     "translation": [
