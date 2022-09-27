@@ -6,7 +6,7 @@
   "diagram": "ADMS",
   "template": "adms_en.j2",
   "title": "ADMS",
-  "publication-state": "Semic Draft",
+  "publication-state": "Working Draft",
   "publication-date": "2022-09-27",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
