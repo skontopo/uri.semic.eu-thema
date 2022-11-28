@@ -11,7 +11,7 @@
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CoreVoc",
-  "site": "site-skeleton/core-person",
+  "site": "site-skeleton/core-person-test",
   "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
   "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
   "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
