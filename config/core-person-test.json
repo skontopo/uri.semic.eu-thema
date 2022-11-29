@@ -35,7 +35,7 @@
   "eap": "CorePerson.EAP",
   "diagram": "Core_Person",
   "template": "core-person-ap_en.j2",
-  "title": "Core Person Vocabulary",
+  "title": "Core Person Test Vocabulary",
   "publication-state": "Semic Recommendation",
   "publication-date": "2022-03-01",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
