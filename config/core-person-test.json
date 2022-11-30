@@ -23,7 +23,7 @@
       {
         "language":"en",
         "template":"core-person-ap_en.j2",
-        "title": "Core Person Test Vocabulary",
+        "title": "Core Person Vocabulary",
         "translationjson":"core-person-ap_en.json",
         "mergefile":"core-person-ap_en_merged.jsonld"
       }
