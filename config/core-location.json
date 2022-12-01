@@ -7,16 +7,16 @@
   "template": "core-location-ap_en.j2",
   "title": "Core Location Vocabulary",
   "publication-state": "Semic Recommendation",
-  "publication-date": "2022-04-01",
+  "publication-date": "2022-12-02",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CoreVoc",
   "site": "site-skeleton/core-location",
-  "repourl": "https://github.com/SEMICeu/Core-Location-Vocabulary/tree/master/releases/2.00",
-  "versionurl": "https://semiceu.github.io/Core-Location-Vocabulary/releases/2.00",
+  "repourl": "https://github.com/SEMICeu/Core-Location-Vocabulary/tree/master/releases/2.0.1",
+  "versionurl": "https://semiceu.github.io/Core-Location-Vocabulary/releases/2.0.1",
   "feedbackurl": "https://github.com/SEMICeu/Core-Location-Vocabulary/issues",
   "documentconfig" : {
-    "changelog" : "https://github.com/SEMICeu/Core-Location-Vocabulary/blob/master/releases/2.00/Changelog.md"
+    "changelog" : "https://github.com/SEMICeu/Core-Location-Vocabulary/blob/master/releases/2.0.1/Changelog.md"
   },
   "standaardregisterurl": "Core-Location-Vocabulary",
     "translation": [
