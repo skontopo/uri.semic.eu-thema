@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "CorePerson-test.EAP",
   "diagram": "Core_Person_publication",
-  "template": "core-person-ap_en.j2",
+  "template": "core-person-ap-test_en.j2",
   "title": "Core Person Vocabulary",
   "publication-state": "Semic Draft",
   "publication-date": "2023-01-01",
