@@ -7,7 +7,7 @@
   "template": "cpsv-ap_en.j2",
   "title": "Core Public Service Vocabulary Application Profile (CPSV-AP)",
   "publication-state": "SEMIC Recommendation",
-  "publication-date": "2022-12-05",
+  "publication-date": "2022-12-07",
   "license": "https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CPSV-AP",
