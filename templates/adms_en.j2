@@ -1,29 +1,11 @@
-{% extends "semic_core_voc_examples.j2" %}
+{% extends "adms-ap.j2" %}
 
 {% block summary %}
 <p>
-	Locations can be described in three principal ways: by using a place name, a geometry or an
-    address. The specific context will determine which method of describing a location is most
-    appropriate. The Core Location Vocabulary provides structure for all three.
-</p>
-<p>
-    ISO 19112 defines a location as "an identifiable geographic place." With this in mind, "Eiffel
-    Tower", "Madrid" and "California" are all locations and this is a common way of representing
-    locations in public sector data, i.e. simply by using a recognised name. Such identifiers are
-    common although they can be highly ambiguous as many places share the same or similar names.
-</p>
-<p>
-    In addition to a simple (string) label or name for a Location, this vocabulary defines a property
-    that allows a Location to be defined by a URI, such as a GeoNames or DBpedia URI.
-</p>
-<p>
-    No cardinality constraints are placed on any property of the Location, Address or Geometry
-    classes in order to maximise flexibility. A single address may be defined in different ways, a
-    geometry may be defined using different coordinate reference systems and a single place may
-    have no recognised name or multiple names. The Core Location Vocabulary makes a minimum
-    number of assumptions about what data will be encoded. However, it clearly makes no sense to
-    define any of the location classes without any properties or to provide multiple instances of the
-    same property with conflicting values.
+	This application profile aimed to extend the use of ADMS, originally 
+    envisaged for the description of semantic interoperability assets, to also support 
+    description of other types of interoperability solutions, covering the political, legal, 
+    organisational and technical interoperability layers defined by the European Interoperability Framework.
 </p>
 {% endblock %}
 
