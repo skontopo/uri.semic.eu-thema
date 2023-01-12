@@ -2,7 +2,7 @@
 {
   "name": "adms-ap",
   "type": "ap",
-  "eap": "ADMS-AP.EAP",
+  "eap": "ADMS-AP.eap",
   "diagram": "ADMS-AP",
   "template": "adms-ap_en.j2",
   "title": "ADMS-AP",
