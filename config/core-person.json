@@ -12,11 +12,11 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "CoreVoc",
   "site": "site-skeleton/core-person",
-  "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.00",
-  "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.00",
+  "repourl": "https://github.com/SEMICeu/Core-Person-Vocabulary/tree/master/releases/2.1.0",
+  "versionurl": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.0",
   "feedbackurl": "https://github.com/SEMICeu/Core-Person-Vocabulary/issues",
   "documentconfig" : {
-	  "changelog" : "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.00/Changelog.md"
+	  "changelog" : "https://github.com/SEMICeu/Core-Person-Vocabulary/blob/master/releases/2.1.0/Changelog.md"
   },
   "standaardregisterurl": "Core-Person-Vocabulary",
     "translation": [
