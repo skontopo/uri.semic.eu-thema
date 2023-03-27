@@ -3,7 +3,7 @@
   "name": "core-vocabularies",
   "type": "voc",
   "eap": "CoreVocabularies.EAP",
-  "diagram": "ISA Core Vocabularies consolidated",
+  "diagram": "ISA_Core_Vocabularies_consolidated",
   "template": "core-vocabularies_en.j2",
   "title": "Core Vocabularies",
   "publication-state": "Semic Recommendation",
